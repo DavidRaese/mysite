@@ -1,0 +1,6 @@
+*.diff
+*.*~
+\node_modules
+#index.html#
+#*#
+.#*
