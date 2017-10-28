@@ -1,0 +1,15 @@
+body {
+    padding: 25px;
+    -webkit-columns: 300px 2;
+            columns: 300px 2;
+    color: #2f5572;
+}
+
+. box {
+    display : inline;
+}
+
+. box a {
+	display: block;
+	padding: 10px; 
+    }
